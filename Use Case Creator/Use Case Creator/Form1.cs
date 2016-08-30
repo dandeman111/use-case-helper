@@ -21,8 +21,7 @@ namespace Use_Case_Creator
         {
             if (true)
             {
-                MessageBox.Show("no");
-            }
+SfsSFsfFs            }
         }
     }
 }
